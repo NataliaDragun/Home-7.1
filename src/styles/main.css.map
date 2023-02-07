@@ -1,1 +1,1 @@
-{"version":3,"sources":["_default.scss","main.css"],"names":[],"mappings":"AAAA;EACE,sBAAA;ACCF;;ADEA;EACE,SAAA;EACA,UAAA;ACCF","file":"main.css"}
+{"version":3,"sources":["_default.scss","main.css","_section.scss"],"names":[],"mappings":"AAAA;EACE,sBAAA;ACCF;;ADEA;EACE,SAAA;EACA,UAAA;ACCF;;ACPA;EACE,uBAAA;EAEA,cAAA;ADSF;;ACNA;EACE,iBAAA;ADSF","file":"main.css"}
