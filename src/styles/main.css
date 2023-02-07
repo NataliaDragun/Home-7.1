@@ -7,6 +7,7 @@ body {
   padding: 0;
 }
 
+
 .product {
   background-color: beige;
   margin: 0 auto;
@@ -14,4 +15,13 @@ body {
 
 .product__description {
   font-weight: bold;
+
+.footer {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer__image {
+  width: 75%;
+
 }/*# sourceMappingURL=main.css.map */
