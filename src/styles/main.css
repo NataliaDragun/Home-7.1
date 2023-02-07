@@ -5,4 +5,13 @@
 body {
   margin: 0;
   padding: 0;
+}
+
+.footer {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer__image {
+  width: 75%;
 }/*# sourceMappingURL=main.css.map */
