@@ -5,4 +5,13 @@
 body {
   margin: 0;
   padding: 0;
+}
+
+.header {
+  border: 2px solid red;
+}
+
+.navbar__lists {
+  list-style: none;
+  padding: 1rem;
 }/*# sourceMappingURL=main.css.map */
