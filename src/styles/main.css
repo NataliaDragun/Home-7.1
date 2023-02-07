@@ -8,6 +8,15 @@ body {
 }
 
 
+.header {
+  border: 2px solid red;
+}
+
+.navbar__lists {
+  list-style: none;
+  padding: 1rem;
+
+
 .product {
   background-color: beige;
   margin: 0 auto;
